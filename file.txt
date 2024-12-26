@@ -1,0 +1,13 @@
+error: remote origin already exists.
+
+1. git remote -v
+
+Note:This is output of first command.
+origin  https://github.com/username/old-repository.git (fetch)
+origin  https://github.com/username/old-repository.git (push)
+
+
+2. git remote remove origin
+
+
+3. git remote add origin https://github.com/Dilsher10/Upload-Image-in-Nextjs.git
